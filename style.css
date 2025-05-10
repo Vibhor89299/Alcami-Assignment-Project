@@ -2217,7 +2217,7 @@ margin-bottom: 32px;
 .tinted-blur-bg-newsletter {
   background-image: 
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-    url('/assets/Footer banner hero.jpg');
+    url('/assets/footer-banner-hero.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
